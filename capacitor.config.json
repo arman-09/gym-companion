@@ -1,0 +1,7 @@
+{
+  "appId": "com.arman.gymcompanion",
+  "appName": "Gym Companion",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false },
+  "backgroundColor": "#0B0D11"
+}
